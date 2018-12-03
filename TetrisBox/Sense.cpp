@@ -78,13 +78,13 @@ void Sense::ShowBg()
     MySetConsoleCursorPos((WIDTH + 4)*2, 10);
     printf("<游戏说明>");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 11);
-    printf("W--旋转");
+    printf("↑  旋转");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 12);
-    printf("A--左移");
+    printf("←  左移");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 13);
-    printf("D--右移");
+    printf("→  右移");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 14);
-    printf("S--下移");
+    printf("↓  下移");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 15);
     printf("当前分数:0");
     MySetConsoleCursorPos((WIDTH + 4) * 2, 16);
