@@ -1,6 +1,6 @@
 ﻿  main.cpp
-d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(69): warning C4244: “=”: 从“wint_t”转换到“char”，可能丢失数据
-d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(53): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(74): warning C4244: “=”: 从“wint_t”转换到“char”，可能丢失数据
+d:\项目\vs项目\tetrisbox\tetrisbox\main.cpp(72): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
   d:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 参见“kbhit”的声明
   TetrisBox.vcxproj -> D:\项目\vs项目\TetrisBox\Debug\TetrisBox.exe

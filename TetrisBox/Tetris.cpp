@@ -63,7 +63,7 @@ void Box::InitBox()
  void Box::SetRadom()
 {
     m_CurType = m_NextType;
-    m_NextType = (emBoxType)(rand() % 1/* 7 + 1*/);
+    m_NextType = (emBoxType)(rand() %  8);
 }
 
 //…Ë÷√–Œ◊¥
