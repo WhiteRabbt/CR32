@@ -1,0 +1,9 @@
+﻿  Bullet.cpp
+d:\项目\vs项目\testtank\testtank\bullet.cpp(134): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  GameData.cpp
+d:\项目\vs项目\testtank\testtank\gamedata.cpp(113): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  main.cpp
+d:\项目\vs项目\testtank\testtank\main.cpp(78): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  Tank.cpp
+d:\项目\vs项目\testtank\testtank\tank.cpp(365): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
