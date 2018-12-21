@@ -1,0 +1,6 @@
+﻿  Sence.cpp
+e:\qq数据\3291794811\filerecv\提交\snake\snake\sence.cpp(33): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  main.cpp
+e:\qq数据\3291794811\filerecv\提交\snake\snake\main.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  Snake.vcxproj -> E:\qq数据\3291794811\FileRecv\提交\Snake\Debug\Snake.exe
